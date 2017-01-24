@@ -1,8 +1,8 @@
-End-to-End Deep Learning for Person Search
-------------------------------------------
+#End-to-End Deep Learning for Person Search
 
-# Short name: E2EPersonSearch
-# Score: 5
+
+Short name: E2EPersonSearch
+Score: 5
 
 # Contributions
 ## Problem addressed
@@ -49,7 +49,7 @@ https://github.com/ShuangLI59/person_search
 
 ## Dataset
 Need to send request
-https://drive.google.com/open?id=0B-GOvBat1maOVUE3WmNNUVRGamc
+
 
 ## Paper reading
 
